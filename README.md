@@ -13,6 +13,8 @@
 ![profile count](https://komarev.com/ghpvc/?username=itsbhavsagar&color=red)&nbsp;
 [![GitHub itsbhavsagar](https://img.shields.io/github/followers/itsbhavsagar?label=follow&style=social)](https://github.com/itsbhavsagar)&nbsp;
 
+<hr>
+
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 💡 &nbsp; Hello World! I'm a Self-taught programmer. I love to code and recently I've actively started contributing to OpenSource. 
@@ -26,6 +28,7 @@
 <a href="mailto:bhavsagar92@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/ItsBhavSagar"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 
+<hr>
 
 ### Languages and Tools
 
