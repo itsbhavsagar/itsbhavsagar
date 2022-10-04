@@ -51,16 +51,17 @@
   
 </p>
 
-<h1 align="center">Github Stats</h1>
+ <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=itsbhavsagar&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=itsbhavsagar&theme=tokyonight)](https://git.io/streak-stats)
  
 <img align="left" alt="itsbhavsagar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&&show_icons=true&theme=dark" width="50%" />
+
+</div>
+
+
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&layout=compact&theme=dark" width="46%" />
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=itsbhavsagar&theme=xcode">
