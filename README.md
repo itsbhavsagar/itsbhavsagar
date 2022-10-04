@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Bhavsagar Chaudhary</h1>
 
-<h3 align="center"> A passionate self-taught FrontEnd Developer🧑🏻‍💻 from India</h3>
+<h3 align="center"> A passionate self-taught Front-End Developer🧑🏻‍💻 from India</h3>
 
 
 
