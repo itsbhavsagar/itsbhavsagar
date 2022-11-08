@@ -1,4 +1,6 @@
-<h1 align="center"> Hi there 👋 I'm Bhavsagar Chaudhary</h1>
+<h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,  I'm Bhavsagar Chaudhary</h1>
+
+
 
 <h3 align="center"> A passionate self-taught Front-End Developer🧑🏻‍💻 from India</h3>
 
