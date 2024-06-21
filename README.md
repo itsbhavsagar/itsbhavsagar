@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Crown Clothing Website](https://github.com/itsbhavsagar/crown-clothing-website)
 
-- 🌱 I’m currently learning **React.Js, TypeScript**
+- 🌱 I’m currently learning **React.Js, TypeScript, MERN**
 
 - 📫 How to reach me **bhavsagar92@gmail.com**
 
