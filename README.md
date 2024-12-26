@@ -82,19 +82,19 @@ A fully functional **e-commerce platform** built with **React.js**, **Node.js**,
 #### **[Taskify - Task Management System](https://github.com/itsbhavsagar/taskify)**
 A **task management app** for team collaboration, built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Taskify+Screenshot" alt="Taskify Screenshot" width="600" />
+  <img src="https://projectsly.com/images/blog/team-task-management-guide.png?v=1670514978795773617" alt="Taskify Screenshot" width="600" />
 </p>
 
 #### **[Social Media Dashboard](https://github.com/itsbhavsagar/social-media-dashboard)**
 A real-time **dashboard** to visualize social media insights, built with **React.js**, **Node.js**, **MongoDB**, and **Chart.js**.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Social+Media+Dashboard+Screenshot" alt="Social Media Dashboard Screenshot" width="600" />
+  <img src="https://slidebazaar.com/wp-content/uploads/2019/10/Social-Media-Dashboard-Template-jpg.webp" alt="Social Media Dashboard Screenshot" width="600" />
 </p>
 
 #### **[MERN Chat App](https://github.com/itsbhavsagar/mern-chat-app)**
 A simple **chat application** using **Socket.io** for real-time communication, built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=MERN+Chat+App+Screenshot" alt="MERN Chat App Screenshot" width="600" />
+  <img src="https://img-c.udemycdn.com/course/750x422/4496984_1e7a_2.jpg" alt="MERN Chat App Screenshot" width="600" />
 </p>
 
 #### **[AWS Serverless Blog API](https://github.com/itsbhavsagar/aws-serverless-blog-api)**
