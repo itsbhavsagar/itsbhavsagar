@@ -39,6 +39,9 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 #### **Backend Development**
@@ -46,8 +49,12 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=black" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=aws-s3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
 </p>
 
 #### **DevOps & Tools**
@@ -57,6 +64,11 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/CI/CD-0052CC?style=flat-square&logo=gitlab&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Azure-0088D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
 
 ---
@@ -66,6 +78,7 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&hide_title=true&count_private=true&theme=blue-green&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavsagar&theme=blue-green&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=blue-green&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </div>
 
 ---
