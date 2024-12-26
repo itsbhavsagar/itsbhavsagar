@@ -65,6 +65,7 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&hide_title=true&count_private=true&theme=blue-green&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavsagar&theme=blue-green&hide_border=true" alt="GitHub Streak" width="400" />
 </div>
 
 ---
@@ -73,35 +74,31 @@ Hi, I'm **Bhavsagar**! A passionate **Full-Stack MERN Developer** focused on bui
 
 Here are some of my **Full-Stack MERN Projects** hosted on **GitHub**:
 
-#### **[Crown Clothing - E-commerce Website](https://github.com/itsbhavsagar/crown-clothing)**
-A fully functional **e-commerce platform** built with **React.js**, **Node.js**, **MongoDB**, and **Stripe** for payments.
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Crown+Clothing+Screenshot" alt="Crown Clothing Screenshot" width="600" />
-</p>
-
-#### **[Taskify - Task Management System](https://github.com/itsbhavsagar/taskify)**
-A **task management app** for team collaboration, built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
-<p align="center">
-  <img src="https://projectsly.com/images/blog/team-task-management-guide.png?v=1670514978795773617" alt="Taskify Screenshot" width="600" />
-</p>
-
-#### **[Social Media Dashboard](https://github.com/itsbhavsagar/social-media-dashboard)**
-A real-time **dashboard** to visualize social media insights, built with **React.js**, **Node.js**, **MongoDB**, and **Chart.js**.
-<p align="center">
-  <img src="https://slidebazaar.com/wp-content/uploads/2019/10/Social-Media-Dashboard-Template-jpg.webp" alt="Social Media Dashboard Screenshot" width="600" />
-</p>
-
-#### **[MERN Chat App](https://github.com/itsbhavsagar/mern-chat-app)**
-A simple **chat application** using **Socket.io** for real-time communication, built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
-<p align="center">
-  <img src="https://img-c.udemycdn.com/course/750x422/4496984_1e7a_2.jpg" alt="MERN Chat App Screenshot" width="600" />
-</p>
-
-#### **[AWS Serverless Blog API](https://github.com/itsbhavsagar/aws-serverless-blog-api)**
-A **serverless API** built with **AWS Lambda** and **API Gateway** for managing blog posts, using **Node.js** and **DynamoDB** for the backend.
-<p align="center">
-  <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2024/10/09/fig3-cyberark-serverless-blueprints-1024x377.png" alt="AWS Serverless Blog API Screenshot" width="600" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/itsbhavsagar/crown-clothing">
+        <img src="https://via.placeholder.com/300x200?text=Crown+Clothing" alt="Crown Clothing" width="300" />
+      </a></td>
+      <td><a href="https://github.com/itsbhavsagar/taskify">
+        <img src="https://projectsly.com/images/blog/team-task-management-guide.png?v=1670514978795773617" alt="Taskify" width="300" />
+      </a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itsbhavsagar/social-media-dashboard">
+        <img src="https://slidebazaar.com/wp-content/uploads/2019/10/Social-Media-Dashboard-Template-jpg.webp" alt="Social Media Dashboard" width="300" />
+      </a></td>
+      <td><a href="https://github.com/itsbhavsagar/mern-chat-app">
+        <img src="https://img-c.udemycdn.com/course/750x422/4496984_1e7a_2.jpg" alt="MERN Chat App" width="300" />
+      </a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/itsbhavsagar/aws-serverless-blog-api">
+        <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2024/10/09/fig3-cyberark-serverless-blueprints-1024x377.png" alt="AWS Serverless Blog API" width="300" />
+      </a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
