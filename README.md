@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm Bhavsagar 👋</h1>
-<h3 align="center">Front-End Developer | React.js Enthusiast | JavaScript Expert</h3>
+<h1 align="center">Hey 👋, I'm Bhavsagar</h1>
+<h3 align="center">Front-End Developer | React.js Expert | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/400" alt="Professional Image" width="400" />
+  <img src="https://via.placeholder.com/400" alt="Bhavsagar" width="400" />
 </p>
 
 <p align="center">
@@ -21,92 +21,108 @@
 
 ### 🚀 About Me
 
-I am a passionate **Front-End Developer** with a deep love for JavaScript and a special focus on **React.js**. I build modern, responsive, and high-performance web applications that create seamless user experiences.
+I’m a passionate **Front-End Developer** with a love for **React.js** and **JavaScript**. My goal is to build **responsive**, **scalable**, and **performance-focused** web applications that deliver a seamless user experience.
 
-- **Currently working on**: A sleek **[Crown Clothing E-commerce Website](https://crown-clothing-website.vercel.app/)** using React, Firebase, and Stripe.
-- **Learning**: Diving deeper into **TypeScript**, **Next.js**, and full-stack development (MERN).
-- **Tech Stack**: React.js, Node.js, MongoDB, Express.js, TypeScript, Tailwind CSS, and more.
+- **Currently building**: **[Crown Clothing Website](https://crown-clothing-website.vercel.app/)** using **React.js**, **Firebase**, and **Stripe**.
+- **Learning**: Advanced concepts in **TypeScript**, **MERN Stack**, and **Next.js** for server-side rendering.
+- **Tech Passion**: I'm always exploring new tools, techniques, and frameworks to build modern, dynamic web applications.
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**  
-- **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3**, **SCSS**, **JSON**
+Here are the key technologies I work with, represented by icons:
 
-**Front-End Libraries & Tools**  
-- **React.js**, **Next.js**, **Redux**, **Tailwind CSS**, **Bootstrap**, **Material-UI**
+#### Front-End Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-**Back-End**  
-- **Node.js**, **Express.js**, **Firebase**, **MongoDB**, **MySQL**
+#### Back-End Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-**DevOps & Tools**  
-- **Git**, **GitHub**, **Docker**, **Webpack**, **Netlify**, **Vercel**, **Heroku**
+#### Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+Check out some of my projects that showcase my skills:
+
+#### [Crown Clothing E-commerce Website](https://crown-clothing-website.vercel.app/)
+A full-featured **e-commerce website** with user authentication, shopping cart, and order management. Built using **React.js**, **Firebase**, and **Stripe** for payment processing.
+
+#### [Taskify - Task Management App](#)
+A collaborative **task management** app that allows users to create and manage tasks in real-time. Built with **React.js**, **Node.js**, and **MongoDB**.
+
+#### [Personal Portfolio](https://bhavsagar.dev/)
+My **personal portfolio** website that showcases my skills, blog posts, and a selection of my projects. Built with **React.js** and **Tailwind CSS**.
+
+#### [Blogging Platform](#)
+A platform for **blogging** with Markdown support. Built with **Next.js** and **Tailwind CSS** for clean, responsive layouts.
+
+---
+
+### 📝 Blog Posts
+
+I love to share my knowledge and insights on **modern web development**. Here are some of my recent blog posts:
+
+- [How to Build a Full-Stack React App](#)
+- [Getting Started with TypeScript for React](#)
+- [Optimizing React Applications for Performance](#)
+- [Introduction to Next.js and Server-Side Rendering](#)
+
+Feel free to check out my full **[Tech Blog](https://bhavsagar.dev/)** for more!
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&hide_title=true&count_private=true&theme=blue-green&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
 </div>
-
----
-
-### 🌟 Featured Projects
-
-Here are some of my key projects that showcase my skills and passion for development:
-
-#### **[Crown Clothing Website](https://crown-clothing-website.vercel.app/)**
-A fully functional, responsive e-commerce platform built with **React.js**, **Firebase**, and **Stripe**. Includes real-time user authentication, order management, and a smooth checkout experience.
-
-#### **[Taskify - Project Management Tool](#)**
-A task management app built with **React.js** and **Node.js** for managing and tracking tasks in teams. Features real-time collaboration and project updates.
-
-#### **[Personal Portfolio](https://bhavsagar.dev/)**
-My personal portfolio website where I showcase my skills, projects, and share my thoughts on modern web development trends.
-
-#### **[Blogging Platform](#)**
-A simple and clean blogging platform built with **Next.js** and **Tailwind CSS**, allowing users to write and publish blogs in real-time.
-
----
-
-### 🔗 Connect with Me
-
-I love to collaborate on projects, share knowledge, and explore new tech trends. Feel free to reach out!
-
-- [LinkedIn](https://www.linkedin.com/in/bhavsagar92/)
-- [Twitter](https://twitter.com/itsbhavsagar)
-- [Email](mailto:bhavsagar92@gmail.com)
-- [Personal Website](https://bhavsagar.dev/)
 
 ---
 
 ### 💡 Random Dev Quote
 
-_"Programming isn't about what you know; it's about what you can figure out."_  
-— Chris Pine
+_"The best way to predict the future is to invent it."_  
+— Alan Kay
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔨 Active Contributions & Learning
+### 🤝 Let’s Connect!
 
-- **Open-Source Projects**: I'm actively contributing to projects related to **React.js**, **JavaScript**, and **UI/UX design**.
-- **Tech Blog**: I write about web development, best practices, and modern JS frameworks on my [blog](https://bhavsagar.dev).
+I’m always open to collaborating on exciting projects. Let’s build something amazing together:
 
----
-
-### 💬 Fun Fact
-
-When I'm not coding, you’ll find me exploring new tech trends, watching sci-fi movies, and learning about the latest developments in AI and machine learning.
+- [LinkedIn](https://www.linkedin.com/in/bhavsagar92/)
+- [Twitter](https://twitter.com/itsbhavsagar)
+- [Email](mailto:bhavsagar92@gmail.com)
+- [Portfolio](https://bhavsagar.dev/)
 
 ---
 
-### 🎯 Looking to Collaborate?
+### 📚 Looking to Collaborate?
 
-I’m open to working with other developers, contributing to open-source projects, or discussing new opportunities in the tech world. If you have an exciting project or just want to chat, **let's connect**!
+If you're looking to collaborate on open-source projects or just want to discuss web technologies, feel free to **reach out**!
 
 ---
 
@@ -118,22 +134,3 @@ I’m open to working with other developers, contributing to open-source project
 
 ---
 
-### 📢 Let’s create something amazing together!
-
----
-
-### Changes & Improvements:
-1. **Sleek Image**: Replaced the GIF with a static image for a cleaner, more professional look. Feel free to replace the placeholder link with your own image.
-2. **Clean Layout**: The layout has been simplified with bold, concise sections that highlight your key skills, projects, and stats.
-3. **Modern Icons**: I’ve included badge-style links for **LinkedIn**, **Twitter**, and **Email** to make them stand out visually.
-4. **Interactive Links**: Each project is linked to a live demo or repository, making it easy for visitors to explore your work.
-5. **Dev Quote**: A fresh approach with a rotating dev quote at the bottom, adding a bit of personality to the profile.
-
----
-
-### Personalization Tips:
-- Replace the **placeholder image** URL with your own image or a professional avatar.
-- Add **real project links** to the “Featured Projects” section.
-- If you have a **resume** link, you can replace the "Download My Resume" with the correct URL.
-
-This version is minimalist, modern, and professional, which should make your GitHub profile look sleek and polished! Let me know if you’d like further adjustments.
