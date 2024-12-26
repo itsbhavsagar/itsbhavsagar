@@ -8,5 +8,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="350" />
   
 </div>
-
-## ✨ Let's build AI-driven solutions that shape the future! ✨
