@@ -1,6 +1,6 @@
 # Hi, I'm Bhavsagar 👋
 
-### Full-Stack MERN Developer | Cloud & DevOps Enthusiast | Continuous Learner
+### Full-Stack AI MERN Developer | Cloud Architect | AI/ML Enthusiast | Web3 | AWS
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1735212249~exp=1735215849~hmac=85741a6db61168274d9d8d359c02265321981a62d6e7733bc440fb54dc8d4b47&w=1380" alt="Bhavsagar" width="250" />
@@ -10,15 +10,15 @@
 
 ## 🚀 About Me
 
-I'm **Bhavsagar**, a **Full-Stack MERN Developer** with 3 years of hands-on experience in building scalable, performant, and secure web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have a keen interest in **Cloud Computing** and **DevOps practices**, particularly within **AWS** and **Serverless Architectures**.
+I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cutting-edge **Artificial Intelligence (AI)** solutions and high-performance **MERN stack** applications. I specialize in building scalable web apps and integrating AI-powered features, like **Machine Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**, into production-level systems. As a passionate **cloud architect**, I also work extensively with **Serverless Architectures** and **CI/CD pipelines** to ensure robust and scalable deployments.
 
-- 🔧 **Currently working on**: A **MERN stack-based application** integrated with **AWS EC2** for seamless deployment and **Serverless Functions**.
-- 🌱 **Currently learning**: **Kubernetes**, **CI/CD pipelines**, **AWS Lambda**, and **Serverless Design Patterns**.
-- 📈 **Open to collaborations**: Looking for opportunities to work on full-stack web apps, cloud solutions, and DevOps-driven projects.
+- 🔧 **Currently working on**: Integrating **AI-driven features** into **MERN stack apps**, building **chatbots** and **recommendation systems**, and using **TensorFlow.js** for AI on the client-side.
+- 🌱 **Currently learning**: **Reinforcement Learning**, **AI Ethics**, **Quantum Computing**, and **Advanced Cloud Architectures** (AWS, Azure).
+- 💬 **Open to collaborations**: Seeking to lead and collaborate on AI-focused projects, cloud solutions, and cutting-edge technology stacks.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### **Frontend Development**:
 <p align="center">
@@ -38,8 +38,21 @@ I'm **Bhavsagar**, a **Full-Stack MERN Developer** with 3 years of hands-on expe
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/AI-FF6347?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenAI-25A2F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+### **AI/ML & Cloud Technologies**:
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=black" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Azure-0088D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Google_AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Serverless" />
 </p>
 
 ### **DevOps & Tools**:
@@ -48,16 +61,8 @@ I'm **Bhavsagar**, a **Full-Stack MERN Developer** with 3 years of hands-on expe
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-</p>
-
-### **Cloud & Serverless**:
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0088D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=aws-s3&logoColor=white" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
 </p>
 
 ---
@@ -74,29 +79,24 @@ I'm **Bhavsagar**, a **Full-Stack MERN Developer** with 3 years of hands-on expe
 
 ## 🌟 Featured Projects
 
-Here are some of my key **Full-Stack MERN Projects**:
+Here are some of my key **AI-powered Full-Stack MERN Projects**:
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/itsbhavsagar/crown-clothing">
-        <img src="https://via.placeholder.com/300x200?text=Crown+Clothing" alt="Crown Clothing" width="300" />
+      <td><a href="https://github.com/itsbhavsagar/ai-chatbot">
+        <img src="https://img.shields.io/badge/AI_Chatbot-FF6347?style=for-the-badge" alt="AI Chatbot" width="300" />
       </a></td>
-      <td><a href="https://github.com/itsbhavsagar/taskify">
-        <img src="https://projectsly.com/images/blog/team-task-management-guide.png?v=1670514978795773617" alt="Taskify" width="300" />
-      </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/itsbhavsagar/social-media-dashboard">
-        <img src="https://slidebazaar.com/wp-content/uploads/2019/10/Social-Media-Dashboard-Template-jpg.webp" alt="Social Media Dashboard" width="300" />
-      </a></td>
-      <td><a href="https://github.com/itsbhavsagar/mern-chat-app">
-        <img src="https://img-c.udemycdn.com/course/750x422/4496984_1e7a_2.jpg" alt="MERN Chat App" width="300" />
+      <td><a href="https://github.com/itsbhavsagar/mern-recommendation-system">
+        <img src="https://img.shields.io/badge/Recommendation_System-32CD32?style=for-the-badge" alt="Recommendation System" width="300" />
       </a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/itsbhavsagar/aws-serverless-blog-api">
-        <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2024/10/09/fig3-cyberark-serverless-blueprints-1024x377.png" alt="AWS Serverless Blog API" width="300" />
+      <td><a href="https://github.com/itsbhavsagar/image-classification">
+        <img src="https://img.shields.io/badge/Image_Classification-FF8C00?style=for-the-badge" alt="Image Classification" width="300" />
+      </a></td>
+      <td><a href="https://github.com/itsbhavsagar/ai-enhanced-web-app">
+        <img src="https://img.shields.io/badge/AI_Web_App-4B0082?style=for-the-badge" alt="AI Web App" width="300" />
       </a></td>
     </tr>
   </table>
@@ -106,12 +106,12 @@ Here are some of my key **Full-Stack MERN Projects**:
 
 ## 📝 Blog Posts
 
-Here are some blog posts where I share insights on **MERN stack development** and **AWS**:
+Explore my insights on **AI integration**, **MERN stack development**, and **cloud solutions**:
 
-- [How to Build a Full-Stack MERN App](#)
-- [Setting Up AWS Lambda with Node.js](#)
-- [Real-Time Chat App with MERN and Socket.io](#)
-- [MERN Stack Deployment on AWS EC2](#)
+- [Building a Full-Stack AI Chatbot with MERN](#)
+- [TensorFlow.js: Bringing Machine Learning to the Browser](#)
+- [How to Build a Recommendation System with MERN & AI](#)
+- [Deploying AI Models on AWS Lambda](#)
 
 Check out my full **[Blog](https://bhavsagar.dev/)** for more!
 
@@ -136,4 +136,4 @@ I’m always open to **collaborations**, **open-source contributions**, and **fr
 
 ---
 
-## ✨ Let's build something amazing together! ✨
+## ✨ Let's build AI-driven solutions that shape the future! ✨
