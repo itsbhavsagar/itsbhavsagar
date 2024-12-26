@@ -1,6 +1,6 @@
 # Hi, I'm Bhavsagar 👋
 
-### Full-Stack AI MERN Developer | Cloud Architect | AI/ML Enthusiast | Web3 | AWS
+### Full-Stack AI MERN Developer | Cloud Architect | AI/ML Enthusiast | CTO-Level Strategist
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1735212249~exp=1735215849~hmac=85741a6db61168274d9d8d359c02265321981a62d6e7733bc440fb54dc8d4b47&w=1380" alt="Bhavsagar" width="250" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cutting-edge **Artificial Intelligence (AI)** solutions and high-performance **MERN stack** applications. I specialize in building scalable web apps and integrating AI-powered features, like **Machine Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**, into production-level systems. As a passionate **cloud architect**, I also work extensively with **Serverless Architectures** and **CI/CD pipelines** to ensure robust and scalable deployments.
+I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cutting-edge **Artificial Intelligence (AI)** solutions and high-performance **MERN stack** applications. I specialize in building scalable web apps and integrating AI-powered features like **Machine Learning**, **Natural Language Processing (NLP)**, and **Computer Vision** into production-level systems. As a passionate **cloud architect**, I also work extensively with **Serverless Architectures** and **CI/CD pipelines** to ensure robust and scalable deployments.
 
 - 🔧 **Currently working on**: Integrating **AI-driven features** into **MERN stack apps**, building **chatbots** and **recommendation systems**, and using **TensorFlow.js** for AI on the client-side.
 - 🌱 **Currently learning**: **Reinforcement Learning**, **AI Ethics**, **Quantum Computing**, and **Advanced Cloud Architectures** (AWS, Azure).
@@ -21,6 +21,9 @@ I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cut
 ## 🛠️ My Tech Stack
 
 ### **Frontend Development**:
+- **React.js**, **Next.js**, **Redux**, **JavaScript**, **TypeScript**
+- **Tailwind CSS**, **HTML5**, **CSS3**
+
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -33,36 +36,33 @@ I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cut
 </p>
 
 ### **Backend Development**:
+- **Node.js**, **Express.js**, **GraphQL**, **MongoDB**, **Firebase**
+- **AI Tools**: **TensorFlow.js**, **Keras**, **PyTorch**, **OpenAI API**
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/AI-FF6347?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6347?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI-25A2F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-### **AI/ML & Cloud Technologies**:
+### **Cloud & Serverless**:
+- **AWS**, **Google Cloud**, **Azure**, **AWS Lambda**, **Serverless Framework**
+- **CI/CD**: **Docker**, **Kubernetes**, **Jenkins**, **GitHub Actions**
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0088D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Google_AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Azure-0088D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Serverless" />
-</p>
-
-### **DevOps & Tools**:
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ---
@@ -73,6 +73,7 @@ I'm **Bhavsagar**, a **Full-Stack AI MERN Developer** with a strong focus on cut
   <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavsagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsbhavsagar&theme=tokyonight&hide_border=true" alt="Wakatime Stats" width="400" />
 </div>
 
 ---
