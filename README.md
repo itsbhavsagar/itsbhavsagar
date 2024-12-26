@@ -143,4 +143,4 @@ I am open to working on interesting **open-source projects**, **freelance work**
 
 ---
 
-### ✨ Let’s build something great together! ✨
+### <h2 align="center">✨ Let’s build something great together! ✨</h2>
