@@ -100,7 +100,7 @@ A simple **chat application** using **Socket.io** for real-time communication, b
 #### **[AWS Serverless Blog API](https://github.com/itsbhavsagar/aws-serverless-blog-api)**
 A **serverless API** built with **AWS Lambda** and **API Gateway** for managing blog posts, using **Node.js** and **DynamoDB** for the backend.
 <p align="center">
-  <img src="https://github.com/DamZiobro/serverless-aws-rest-api" alt="AWS Serverless Blog API Screenshot" width="600" />
+  <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2024/10/09/fig3-cyberark-serverless-blueprints-1024x377.png" alt="AWS Serverless Blog API Screenshot" width="600" />
 </p>
 
 ---
