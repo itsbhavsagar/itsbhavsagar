@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #4CAF50;">Full-Stack MERN Developer | JavaScript Enthusiast | Cloud & DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1735212249~exp=1735215849~hmac=85741a6db61168274d9d8d359c02265321981a62d6e7733bc440fb54dc8d4b47&w=1380" alt="Bhavsagar" width="100" />
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1735212249~exp=1735215849~hmac=85741a6db61168274d9d8d359c02265321981a62d6e7733bc440fb54dc8d4b47&w=1380" alt="Bhavsagar" width="250" />
 </p>
 
 <p align="center">
