@@ -1,12 +1,12 @@
-# Hi there, I'm Bhavsagar 👋
+# 👋 Hi there, I'm Bhavsagar
 
-I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack AI Developer**. I'm currently learning **TypeScript**, **AI Agents**, and other exciting technologies that combine AI with full-stack development. My goal is to integrate advanced AI solutions with modern web applications and enhance user experiences.
+I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack AI Developer**. 🚀 Currently learning **TypeScript**, **AI Agents**, and other exciting technologies that merge AI with full-stack development. My goal is to integrate advanced AI solutions into modern web applications and deliver seamless user experiences. 🌟
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Front-End
+### 🌐 Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
@@ -16,9 +16,11 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
 </div>
 
-### Back-End
+### ⚙️ Back-End
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
@@ -26,12 +28,13 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
   <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-AI_Agents-FF4081?style=flat&logo=robot&logoColor=white" alt="AI Agent Development" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
 
-### DevOps & CI/CD
+### 📦 DevOps & CI/CD
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -40,7 +43,7 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
-### Testing & Automation
+### 🧪 Testing & Automation
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" />
@@ -48,7 +51,7 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
   <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" />
 </div>
 
-### Other Tools
+### 🛠️ Other Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -87,7 +90,12 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
 ## 🌱 Let's Connect
 
 - **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)
-- **Portfolio:** [Bhavsagar.dev](https://bhavsagar.dev)
+- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror) 🐦
+- **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/) 📸
+- **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...) 🎥
+- **Portfolio:** [Bhavsagar.dev](https://bhavsagar.dev) 🌐
+- **Reddit:** [u/Runtime_Terror](https://www.reddit.com/u/Runtime_Terror/) 👾
+- **Upwork:** [Bhavsagar](https://www.upwork.com/freelancers/~...) 💼
 
 ---
 
