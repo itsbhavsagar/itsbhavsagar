@@ -35,6 +35,8 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
@@ -53,6 +55,12 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Adobe_XD-FF26B2?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/-FinalCut_Pro-FC6C3F?style=flat&logo=final-cut-pro&logoColor=white" alt="FinalCut Pro" />
+  <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/-DaVinci_Resolve-FF6A00?style=flat&logo=blackmagic-design&logoColor=white" alt="DaVinci Resolve" />
 </div>
 
 ---
@@ -96,7 +104,7 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
 
 - Transition into a **Full Stack AI Developer** role by mastering AI and integrating it into full-stack projects.
 - Secure a **Full Stack AI Developer** position with a focus on AI and intelligent systems.
-
+  
 ---
 
 Thanks for stopping by! Feel free to connect and collaborate. 😄
