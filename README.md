@@ -88,7 +88,23 @@ I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack
 
 - **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)
 - **Portfolio:** [Bhavsagar.dev](https://bhavsagar.dev)
-- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror)
-- **Upwork:** [Bhavsagar](https://www.upwork.com/freelancers/~your-upwork-username)
 
-Thanks for visiting my profile! Feel free to connect with me or ask for any advice or help. Let’s build something awesome together! 😊
+---
+
+## 🔥 Projects
+
+- **E-commerce App** - A fully-functional e-commerce platform built with **React** and **Node.js**.
+- **Spotify Clone** - A music streaming app with features like playlist management, built with **React** and **Redux**.
+- **Travel App** - A travel application where users can browse destinations, created with **React** and **Express**.
+- **AI Chatbot** - A chatbot powered by **AI Agents** that helps users navigate websites and answer questions.
+
+---
+
+## 🎯 Goals for 2025
+
+- Transition into a **Full Stack AI Developer** role by mastering AI and integrating it into full-stack projects.
+- Secure a **Full Stack AI Developer** position with a focus on AI and intelligent systems.
+  
+---
+
+Thanks for stopping by! Feel free to connect and collaborate. 😄
