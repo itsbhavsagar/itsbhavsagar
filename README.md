@@ -1,91 +1,112 @@
-# 🎨 Hello, I'm Bhavsagar 👋
+# 🧑‍💻 **Bhavsagar** | Full Stack MERN Developer & AI Enthusiast
 
-🌟 **Full Stack MERN Developer** → **Aspiring Full Stack AI Developer**
-
-I'm passionate about building innovative web apps and transitioning into the realm of **AI Agent Development**. 🌐💡 I believe the future of full-stack development lies at the intersection of AI and web technologies, and I’m excited to be part of that revolution! 🚀✨
-
----
-
-## 🔧 My Tech Toolbox 🛠️
-
-### **Front-End** 🎨
-![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### **Back-End** ⚙️
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **AI Technologies** 🧠
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![](https://img.shields.io/badge/AI_Agents-FF4081?style=for-the-badge&logo=robot&logoColor=white)
-
-### **DevOps & CI/CD** 🛠️
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+📍 **Location:** India  
+📧 **Email:** [bhavsagar@example.com](mailto:bhavsagar@example.com)  
+🌐 **Portfolio:** [bhavsagar.dev](https://bhavsagar.dev)  
+🔗 **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)  
+🐦 **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror)  
+📸 **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/)  
+🔴 **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...)
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 **About Me**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="400" />
-</div>
+As a **Full Stack MERN Developer** with a deep passion for **AI technologies**, I am constantly learning and evolving. My goal is to transition into **Full Stack AI Development**, creating intelligent, intuitive applications that merge AI and modern web technologies. I thrive in dynamic environments and love the challenge of solving real-world problems with creative solutions. 🚀
 
 ---
 
-## 💻 Current Focus
+## 🛠️ **Skills**
 
-- Learning **TypeScript** for scalable, reliable apps.
-- Deepening knowledge of **AI Agents** and **machine learning** for intelligent systems.
-- Mastering **TensorFlow** and **PyTorch** to integrate AI models into my full-stack projects.
+### **Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🎯 Future Goals
+## 💼 **Experience**
 
-1. Build intelligent, **AI-powered web applications**.
-2. Transition into a **Full Stack AI Developer** role.
-3. Master the **integration of AI** and **web technologies** to create seamless, intuitive user experiences.
+### **MERN Full Stack Intern**  
+GeeksForGeeks — _Jan 2024 - Present_  
+- Built full-stack web applications using **React**, **Node.js**, **MongoDB**, and **Express**.  
+- Worked on developing scalable APIs and integrating front-end and back-end components.  
+- Implemented authentication, payment gateways, and real-time features.
+
+### **Frontend Web Developer**  
+Speedwell IT Solutions — _June 2023 - Dec 2023_  
+- Developed responsive, mobile-first web interfaces using **React**, **Redux**, and **Tailwind CSS**.  
+- Collaborated with back-end developers to integrate APIs and enhance app performance.
+
+### **Web Developer Intern**  
+Soron Software Solutions — _Jan 2023 - May 2023_  
+- Assisted in the development of web applications, focusing on front-end technologies like **HTML5**, **CSS3**, and **JavaScript**.  
+- Optimized web applications for better performance and cross-browser compatibility.
 
 ---
 
-## 💬 Let's Connect
+## 📈 **Education**
 
-- **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)
-- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror) 🐦
-- **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/) 📸
-- **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...)
+**Bachelor of Technology in Computer Science**  
+University of XYZ — _Graduated: 2023_  
+- Relevant Coursework: Full Stack Development, Data Structures & Algorithms, Web Technologies
+
+---
+
+## 📊 **Projects**
+
+### **AI Chatbot** 🤖  
+A chatbot powered by **AI Agents** that helps users navigate websites and answer questions intelligently.  
+- **Tech Stack:** Python, TensorFlow, Node.js, React.
+
+### **E-commerce Website** 🛒  
+A fully functional e-commerce application with user authentication, product catalog, and shopping cart.  
+- **Tech Stack:** React, Redux, Express, MongoDB.
+
+### **Travel Explorer App** 🌍  
+A travel application that integrates maps, reviews, and recommendations from users worldwide.  
+- **Tech Stack:** React, Node.js, Express, Google Maps API.
+
+---
+
+## 🧠 **Current Focus & Learning**
+
+- Deepening knowledge in **AI Agent Development** and **machine learning**.  
+- Focusing on **TypeScript** for more robust, scalable web applications.  
+- Exploring **TensorFlow** and **PyTorch** for integrating AI models into web technologies.
+
+---
+
+## 🎯 **Goals for 2025**
+
+1. Transition into **Full Stack AI Development**.
+2. Build innovative AI-powered applications that blend web development with machine learning.
+3. Secure a position as a **Full Stack AI Developer** to solve complex, real-world challenges.
+
+---
+
+## 🌍 **Connect with Me**
+
+Let's collaborate on innovative projects! I'm always open to networking and new opportunities. 💬  
+- **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)  
+- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror)  
+- **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/)  
+- **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...)  
 - **Reddit:** [u/Runtime_Terror](https://www.reddit.com/u/Runtime_Terror/)  
-- **Portfolio:** [bhavsagar.dev](https://bhavsagar.dev) 🌐
 
 ---
 
-## 🔥 Featured Projects
+*Thank you for visiting my profile. Let’s connect and create something amazing together!* ✨
 
-### 💡 **AI Chatbot** 🤖
-A chatbot powered by **AI Agents** that helps users navigate websites and answer questions intelligently.
-
-### 🌍 **Travel Explorer App** 🌏
-A travel application with interactive maps, user reviews, and destination guides, built with **React** and **Express**.
-
-### 🛒 **E-commerce App** 🛍️
-A modern **React** e-commerce app with a smooth UI, shopping cart functionality, and payment gateway integration.
-
----
-
-## ✨ A Vision for 2025
-
-- Master AI and its integration with modern web technologies.
-- Secure a **Full Stack AI Developer** position to contribute to **intelligent systems**.
-- Create innovative, **AI-powered apps** that solve real-world problems.
-
----
-
-**Thanks for stopping by!** 🌟 Feel free to connect and collaborate on exciting projects! 💻🔮
