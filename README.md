@@ -1,112 +1,118 @@
-# 🧑‍💻 **Bhavsagar** | Full Stack MERN Developer & AI Enthusiast
+# 👋 Hi there, I'm Bhavsagar
 
-📍 **Location:** India  
-📧 **Email:** [bhavsagar@example.com](mailto:bhavsagar@example.com)  
-🌐 **Portfolio:** [bhavsagar.dev](https://bhavsagar.dev)  
-🔗 **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)  
-🐦 **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror)  
-📸 **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/)  
-🔴 **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...)
+I'm a passionate **Full Stack MERN Developer** transitioning into a **Full Stack AI Developer**. 🚀 Currently learning **TypeScript**, **AI Agents**, and other exciting technologies that merge AI with full-stack development. My goal is to integrate advanced AI solutions into modern web applications and deliver seamless user experiences. 🌟
 
 ---
 
-## 👨‍💻 **About Me**
+## 🛠️ Technologies & Tools
 
-As a **Full Stack MERN Developer** with a deep passion for **AI technologies**, I am constantly learning and evolving. My goal is to transition into **Full Stack AI Development**, creating intelligent, intuitive applications that merge AI and modern web technologies. I thrive in dynamic environments and love the challenge of solving real-world problems with creative solutions. 🚀
+### 🌐 Front-End
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+</div>
 
----
+### ⚙️ Back-End
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-AI_Agents-FF4081?style=flat&logo=robot&logoColor=white" alt="AI Agent Development" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+</div>
 
-## 🛠️ **Skills**
+### 📦 DevOps & CI/CD
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+</div>
 
-### **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🧪 Testing & Automation
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/-Cucumber-23D400?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" />
+</div>
 
-### **Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 💼 **Experience**
-
-### **MERN Full Stack Intern**  
-GeeksForGeeks — _Jan 2024 - Present_  
-- Built full-stack web applications using **React**, **Node.js**, **MongoDB**, and **Express**.  
-- Worked on developing scalable APIs and integrating front-end and back-end components.  
-- Implemented authentication, payment gateways, and real-time features.
-
-### **Frontend Web Developer**  
-Speedwell IT Solutions — _June 2023 - Dec 2023_  
-- Developed responsive, mobile-first web interfaces using **React**, **Redux**, and **Tailwind CSS**.  
-- Collaborated with back-end developers to integrate APIs and enhance app performance.
-
-### **Web Developer Intern**  
-Soron Software Solutions — _Jan 2023 - May 2023_  
-- Assisted in the development of web applications, focusing on front-end technologies like **HTML5**, **CSS3**, and **JavaScript**.  
-- Optimized web applications for better performance and cross-browser compatibility.
-
----
-
-## 📈 **Education**
-
-**Bachelor of Technology in Computer Science**  
-University of XYZ — _Graduated: 2023_  
-- Relevant Coursework: Full Stack Development, Data Structures & Algorithms, Web Technologies
-
----
-
-## 📊 **Projects**
-
-### **AI Chatbot** 🤖  
-A chatbot powered by **AI Agents** that helps users navigate websites and answer questions intelligently.  
-- **Tech Stack:** Python, TensorFlow, Node.js, React.
-
-### **E-commerce Website** 🛒  
-A fully functional e-commerce application with user authentication, product catalog, and shopping cart.  
-- **Tech Stack:** React, Redux, Express, MongoDB.
-
-### **Travel Explorer App** 🌍  
-A travel application that integrates maps, reviews, and recommendations from users worldwide.  
-- **Tech Stack:** React, Node.js, Express, Google Maps API.
+### 🛠️ Other Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Adobe_XD-FF26B2?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/-FinalCut_Pro-FC6C3F?style=flat&logo=final-cut-pro&logoColor=white" alt="FinalCut Pro" />
+  <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/-DaVinci_Resolve-FF6A00?style=flat&logo=blackmagic-design&logoColor=white" alt="DaVinci Resolve" />
+</div>
 
 ---
 
-## 🧠 **Current Focus & Learning**
+## 📊 GitHub Stats
 
-- Deepening knowledge in **AI Agent Development** and **machine learning**.  
-- Focusing on **TypeScript** for more robust, scalable web applications.  
-- Exploring **TensorFlow** and **PyTorch** for integrating AI models into web technologies.
-
----
-
-## 🎯 **Goals for 2025**
-
-1. Transition into **Full Stack AI Development**.
-2. Build innovative AI-powered applications that blend web development with machine learning.
-3. Secure a position as a **Full Stack AI Developer** to solve complex, real-world challenges.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbhavsagar&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="350" />
+</div>
 
 ---
 
-## 🌍 **Connect with Me**
+## 🚀 Current Focus
 
-Let's collaborate on innovative projects! I'm always open to networking and new opportunities. 💬  
-- **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)  
-- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror)  
-- **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/)  
-- **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...)  
-- **Reddit:** [u/Runtime_Terror](https://www.reddit.com/u/Runtime_Terror/)  
+- Mastering **TypeScript** for building scalable, maintainable applications.
+- Developing **AI Agents** that integrate with full-stack applications for intelligent decision-making.
+- Learning **TensorFlow** and **PyTorch** for AI development, focusing on integrating machine learning models with Node.js.
+- Building my own **AI-powered applications** using Node.js and React.
 
 ---
 
-*Thank you for visiting my profile. Let’s connect and create something amazing together!* ✨
+## 🌱 Let's Connect
 
+- **LinkedIn:** [Bhavsagar](https://www.linkedin.com/in/bhavsagar/)
+- **Twitter:** [@Runtime_Terror](https://twitter.com/Runtime_Terror) 🐦
+- **Instagram:** [@bhavsagar_dev](https://www.instagram.com/bhavsagar_dev/) 📸
+- **YouTube:** [Bhavsagar](https://www.youtube.com/channel/UC...) 🎥
+- **Portfolio:** [Bhavsagar.dev](https://bhavsagar.dev) 🌐
+- **Reddit:** [u/Runtime_Terror](https://www.reddit.com/u/Runtime_Terror/) 👾
+- **Upwork:** [Bhavsagar](https://www.upwork.com/freelancers/~...) 💼
+
+---
+
+## 🔥 Projects
+
+- **E-commerce App** - A fully-functional e-commerce platform built with **React** and **Node.js**.
+- **Spotify Clone** - A music streaming app with features like playlist management, built with **React** and **Redux**.
+- **Travel App** - A travel application where users can browse destinations, created with **React** and **Express**.
+- **AI Chatbot** - A chatbot powered by **AI Agents** that helps users navigate websites and answer questions.
+
+---
+
+## 🎯 Goals for 2025
+
+- Transition into a **Full Stack AI Developer** role by mastering AI and integrating it into full-stack projects.
+- Secure a **Full Stack AI Developer** position with a focus on AI and intelligent systems.
+  
+---
+
+Thanks for stopping by! Feel free to connect and collaborate. 😄
