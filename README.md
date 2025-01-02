@@ -47,5 +47,9 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&theme=dark&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />  <a href="https://linkedin.com/in/itsbhavsagar"><img align="right" width="200" height="150" src="https://i.pinimg.com/originals/8b/4e/92/8b4e9278b087d5d1caa271a0a4215221.gif?raw=true"></a>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />  
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/itsbhavsagar"><img align="center" width="200" height="150" src="https://i.pinimg.com/originals/8b/4e/92/8b4e9278b087d5d1caa271a0a4215221.gif?raw=true"></a>
 </p>
