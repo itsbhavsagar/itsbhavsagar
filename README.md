@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" alt="Your Image" width="600" />
+  <img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" alt="Your Image" width="500" />
 </p>  
 
 <h1 align="center">Hi 👋, I'm Bhavsagar Baliyan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
