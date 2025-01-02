@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" alt="Your Image" width="500" />
 </p>  
 
-<h1 align="center">Hi 👋, I'm Bhavsagar Baliyan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Bhavsagar Baliyan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1> 
 
 
   <h4 align="center">🚀 A MERN Stack Developer transitioning into the world of Web3 and Solidity Development</h4>
@@ -11,7 +11,7 @@
 
 ### 🌟 **Current Focus**  
 🎯 Learning **Solidity** and building **Smart Contracts**.  
-🌍 Exploring the decentralized world with **Web3**.  
+🌍 Exploring the decentralized world with **Web3**.
 
 ---
 
@@ -47,5 +47,5 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=itsbhavsagar&theme=dark&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhavsagar&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />  <a href="https://github.com/sponsors/M0nica"><img align="right" width="200" height="150" src="https://i.pinimg.com/originals/8b/4e/92/8b4e9278b087d5d1caa271a0a4215221.gif?raw=true"></a>
 </p>
