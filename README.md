@@ -36,7 +36,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png"></code>
 
 ### 📫 **Get in Touch**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/itsbhavsagar) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@//.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style=for-the-badge)](https:///////.com)
