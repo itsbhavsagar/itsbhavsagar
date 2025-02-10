@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg" alt="Your Image" width="500" />
 </p>  
 
-<h1 align="center">Hi 👋, I'm Bhavsagar Baliyan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1> 
+<h1 align="center">Hi 👋, I'm Bhavsagar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1> 
 
 
   <h4 align="center">🚀 A MERN Stack Developer transitioning into the world of Web3 and Solidity Development</h4>
