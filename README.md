@@ -5,14 +5,11 @@
 <h1 align="center">Hi 👋, I'm Bhavsagar <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1> 
 
 
-  <h4 align="center">🚀 A MERN Stack Developer transitioning into the world of AI Agent Development</h4>
+  <h4 align="center">🚀 A MERN Stack Developer</h4>
 
 ---
 
-### 🌟 **Current Focus** 🎯 
-I’ve been channeling my expertise into AI experimentation, blending tools like TensorFlow.js and OpenAI’s APIs with my JavaScript/TypeScript foundation. When I’m not coding, I write about my journey into AI development and share practical tutorials for developers making the same transition. *Let’s connect and build something real !*
 
----
 
 ### 🛠️ Languages and Tools
 
